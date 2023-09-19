@@ -1,0 +1,38 @@
+.container {
+    background-color: black;
+    height: 80px;
+    width: 250px;
+    border-radius: 10px;
+    display: flex;
+    text-align: center;
+
+}
+.inner-container {
+    padding: 10px;
+    margin-left: 10px;
+}
+.porn {
+    max-width: 100px;
+    font-size: 50px;
+    margin-top: -8px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    font-weight: bold;   
+    margin-right: 10px;
+    margin-left: -4px;
+}
+.right {
+    background-color: rgb(248, 158, 4);
+    height: 55px;
+    width: 100px;
+    margin-top: 13px;
+    margin-left: -3px;    
+    border-radius: 10px;
+    
+}
+.hub {
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    margin-top: -10px;
+    font-weight: bold;
+}
