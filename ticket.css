@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    background-color: black;
+    height: 200px;
+    width: 500px;
+    align-items: center;
+    padding: 40px;
+    overflow: visible;
+    
+}
+.circle1,.circle2 {
+    
+    height: 60px;
+    width: 60px;
+    background-color: black;
+    border-radius: 30px;
+    
+}
+.circle1{
+    
+    margin-left: 470px;
+    margin-top: 70px;
+}
+.circle2{
+    margin-top: -60px;
+    margin-left: -30px;
+}
+.ticket-body {
+    
+    height: 200px;
+    width: 500px;
+    background-color: rgb(255, 255, 255);
+    align-items: center;
+    
+
+    
+}
